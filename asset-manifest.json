@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tesrakitpc/static/css/main.a4449192.css",
-    "main.js": "/tesrakitpc/static/js/main.f39f253d.js",
+    "main.js": "/tesrakitpc/static/js/main.0b3226d8.js",
     "static/media/HERO-IMG.png": "/tesrakitpc/static/media/HERO-IMG.cb63d6b94ef7689ea39d.png",
     "static/media/vladimir-kudinov-KBX9XHk266s-unsplash 2.png": "/tesrakitpc/static/media/vladimir-kudinov-KBX9XHk266s-unsplash 2.3187e97a24354449152f.png",
     "static/media/652324549_5.png": "/tesrakitpc/static/media/652324549_5.480d07fc890c42207b78.png",
@@ -11,10 +11,10 @@
     "static/media/revicons.woff": "/tesrakitpc/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/tesrakitpc/index.html",
     "main.a4449192.css.map": "/tesrakitpc/static/css/main.a4449192.css.map",
-    "main.f39f253d.js.map": "/tesrakitpc/static/js/main.f39f253d.js.map"
+    "main.0b3226d8.js.map": "/tesrakitpc/static/js/main.0b3226d8.js.map"
   },
   "entrypoints": [
     "static/css/main.a4449192.css",
-    "static/js/main.f39f253d.js"
+    "static/js/main.0b3226d8.js"
   ]
 }
